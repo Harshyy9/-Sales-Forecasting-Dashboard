@@ -1,4 +1,7 @@
 # 📊 Sales Forecasting Dashboard
+![image](https://github.com/user-attachments/assets/f036cb3d-49a2-4ce9-ae54-eb2e7bd6668a)
+![image](https://github.com/user-attachments/assets/20292cb4-f983-455f-a450-0b596a25db03)
+
 
 ### 🧰 Tools Used  
 Power BI · Power Query · DAX · Time Series Forecasting
